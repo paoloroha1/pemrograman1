@@ -1,0 +1,7 @@
+public class pratikum{
+	 public static void main(string[] args){
+		int age = 21;
+
+	system.out.println(age>50? "you are old" :" you are young ");
+    }
+}
